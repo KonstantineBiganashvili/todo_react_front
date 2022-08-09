@@ -21,6 +21,8 @@ code {
 #todoContainer {
   max-width: 800px;
   margin: auto;
+  margin-top: 10px;
   background-color: #fff;
   border-radius: 10px;
+  overflow: hidden;
 }
